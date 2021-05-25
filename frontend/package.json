@@ -11,7 +11,12 @@
   "author": "Aman khandelwal",
   "license": "ISC",
   "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
+    "@apollo/react-ssr": "^4.0.0",
+    "apollo-boost": "^0.4.9",
+    "graphql": "^15.5.0",
     "next": "^10.2.2",
+    "next-apollo": "^3.1.10",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "reactstrap": "^8.9.0"
